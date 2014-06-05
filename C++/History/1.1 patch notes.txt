@@ -1,0 +1,4 @@
+The following changes and bug fixes have been made to the program:
+
+1.	Removed debugging functions to lighten program overhead
+2.	Added review of ships remaining / destroyed, and added clear-screens and pauses to make gameplay flow better
